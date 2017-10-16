@@ -669,7 +669,7 @@ h1 span{
   width:100%;
   z-index:10;
   height:400px;
-  background:url('../img/background/21.JPG') 0px 0px fixed;
+  /*background:url('../img/background/21.JPG') 0px 0px fixed;*/
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
