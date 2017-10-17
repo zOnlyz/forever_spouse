@@ -105,8 +105,8 @@ h1 span{
   height:100%;
   z-index:10;
   /*background:url('../img/background/start-page.jpg') #c0c0c0 bottom center fixed no-repeat;*/
-  background:url('../img/portfolio/img/bg.jpg');
-  background-position: 10% 10%;
+  background:url('../img/portfolio/img/bg.jpg') 0 50% fixed no-repeat;
+  /*background-position: 10% 10%;*/
   /*-webkit-background-size: cover;*/
   -moz-background-size: cover;
   -o-background-size: cover;
